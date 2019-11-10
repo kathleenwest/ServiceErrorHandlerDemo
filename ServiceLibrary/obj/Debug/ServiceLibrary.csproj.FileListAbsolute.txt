@@ -1,0 +1,10 @@
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\ServiceErrorHandlerDemo\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
